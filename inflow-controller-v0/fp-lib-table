@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name xb1-stick)(type KiCad)(uri ${KIPRJMOD}/xb1-stick)(options "")(descr ""))
+)

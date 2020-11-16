@@ -25,10 +25,10 @@ F 3 "~" H 1500 1200 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector_Generic:Conn_01x02 J201
+L Connector_Generic:Conn_01x02 J202
 U 1 1 5F4D8391
 P 2250 1700
-F 0 "J201" H 2330 1692 50  0000 L CNN
+F 0 "J202" H 2330 1692 50  0000 L CNN
 F 1 "Conn_01x02" H 2330 1601 50  0000 L CNN
 F 2 "Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical" H 2250 1700 50  0001 C CNN
 F 3 "~" H 2250 1700 50  0001 C CNN
@@ -88,10 +88,10 @@ F 3 "~" H 3000 4800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector_Generic:Conn_01x06 J301
+L Connector_Generic:Conn_01x06 J303
 U 1 1 5F4D4A40
 P 3000 3100
-F 0 "J301" H 3080 3046 50  0000 L CNN
+F 0 "J303" H 3080 3046 50  0000 L CNN
 F 1 "Conn_01x06" H 3080 3051 50  0001 L CNN
 F 2 "Connector_PinHeader_1.27mm:PinHeader_1x06_P1.27mm_Vertical" H 3000 3100 50  0001 C CNN
 F 3 "~" H 3000 3100 50  0001 C CNN
